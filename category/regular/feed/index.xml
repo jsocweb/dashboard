@@ -12,7 +12,7 @@
 	<atom:link href="https://jsocweb.github.io/dashboard/category/regular/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jsocweb.github.io/dashboard</link>
 	<description>Jain Samaj of Colorado</description>
-	<lastBuildDate>Sun, 18 Apr 2021 03:30:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Apr 2021 18:27:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,25 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>WE ARE BLESSED to have this magical moment in our life</title>
+		<link>https://jsocweb.github.io/dashboard/2021/04/18/we-are-blessed-to-have-this-magical-moment-in-our-life/</link>
+					<comments>https://jsocweb.github.io/dashboard/2021/04/18/we-are-blessed-to-have-this-magical-moment-in-our-life/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 18 Apr 2021 18:19:01 +0000</pubDate>
+				<category><![CDATA[Regular]]></category>
+		<guid isPermaLink="false">https://jsocweb.github.io/dashboard/?p=166</guid>
+
+					<description><![CDATA[Jai Jinendra, Thursday Sep 24, 2020 (Aatham Tithi), we were blessed to receive a Jain Idol from a local family in Denver&#8230; Posted by Jain Samaj of Colorado on&#160;Saturday, September 26, 2020]]></description>
+										<content:encoded><![CDATA[
+<div class="fb-post" data-href="https://www.facebook.com/JSOColorado/posts/626627691384416" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/JSOColorado/posts/626627691384416" class="fb-xfbml-parse-ignore"><p>Jai Jinendra, Thursday Sep 24, 2020 (Aatham Tithi), we were blessed to receive a Jain Idol from a local family in Denver&#8230;</p>Posted by <a href="https://www.facebook.com/JSOColorado/">Jain Samaj of Colorado</a> on&nbsp;<a href="https://www.facebook.com/JSOColorado/posts/626627691384416">Saturday, September 26, 2020</a></blockquote></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jsocweb.github.io/dashboard/2021/04/18/we-are-blessed-to-have-this-magical-moment-in-our-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

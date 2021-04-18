@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Jain Samaj Of Colorado	</title>
-	<atom:link href="/C:\Users\sachi\Documents\Projects\jsoc-web\dashboard/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/C:\Users\sachi\Documents\Projects\jsoc-web\dashboard</link>
+	<atom:link href="https://https://jsocweb.github.io/dashboard/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://jsocweb.github.io/dashboard</link>
 	<description>Jain Samaj of Colorado</description>
 	<lastBuildDate>Sat, 17 Apr 2021 08:58:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/C:\Users\sachi\Documents\Projects\jsoc-web\dashboard/2021/04/17/hello-world/#comment-1</link>
+		<link>https://https://jsocweb.github.io/dashboard/2021/04/17/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 17 Apr 2021 08:58:14 +0000</pubDate>

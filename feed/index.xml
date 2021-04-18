@@ -12,7 +12,7 @@
 	<atom:link href="https://jsocweb.github.io/dashboard/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jsocweb.github.io/dashboard</link>
 	<description>Jain Samaj of Colorado</description>
-	<lastBuildDate>Sun, 18 Apr 2021 18:27:49 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Apr 2021 20:27:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -70,7 +70,6 @@
 		<item>
 		<title>Bhagwan Mahavir Janam Kalyanak 2021</title>
 		<link>https://jsocweb.github.io/dashboard/2021/04/18/bhagwan-mahavir-janam-kalyanak-2021/</link>
-					<comments>https://jsocweb.github.io/dashboard/2021/04/18/bhagwan-mahavir-janam-kalyanak-2021/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 18 Apr 2021 03:27:26 +0000</pubDate>
@@ -88,8 +87,6 @@ We are few days away from Mahavir Janam Kalyanak 2021 Celebration . Lets refresh
 https://youtu.be/pQhfdPnHAhM</p>Posted by <a href="https://www.facebook.com/JSOColorado/">Jain Samaj of Colorado</a> on&nbsp;<a href="https://www.facebook.com/JSOColorado/posts/743029559744228">Wednesday, April 14, 2021</a></blockquote></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://jsocweb.github.io/dashboard/2021/04/18/bhagwan-mahavir-janam-kalyanak-2021/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

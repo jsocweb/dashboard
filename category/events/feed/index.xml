@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>admin &#8211; Jain Samaj Of Colorado</title>
-	<atom:link href="https://jsocweb.github.io/dashboard/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<title>Events &#8211; Jain Samaj Of Colorado</title>
+	<atom:link href="https://jsocweb.github.io/dashboard/category/events/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jsocweb.github.io/dashboard</link>
 	<description>Jain Samaj of Colorado</description>
 	<lastBuildDate>Sun, 18 Apr 2021 03:30:51 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://jsocweb.github.io/dashboard/wp-content/uploads/2021/04/Ahinsa_Parmo_Dharm-150x145.jpg</url>
-	<title>admin &#8211; Jain Samaj Of Colorado</title>
+	<title>Events &#8211; Jain Samaj Of Colorado</title>
 	<link>https://jsocweb.github.io/dashboard</link>
 	<width>32</width>
 	<height>32</height>
